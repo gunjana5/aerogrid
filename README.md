@@ -1,4 +1,4 @@
-# AeroGrid
+# aerogrid
 
 ## what it is
 
